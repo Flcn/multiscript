@@ -6,7 +6,7 @@ require "multiscript/version"
 
 Gem::Specification.new do |s|
   s.name        = "multiscript"
-  s.version     = Multiscript::VERSION
+  s.version     = MultiScript::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Sokolov Ilya"]
   s.email       = ["falconmain@gmail.com"]
