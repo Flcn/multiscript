@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.email       = ["falconmain@gmail.com"]
   s.homepage    = "https://github.com/Flcn/multiscript"
   s.summary     = "JavaScript files handling library"
-  s.description = "Can compile multiply coffee and js file together, compress it ..."
+  s.description = "Can compile multipl coffee and js file together, compress it ..."
 
   s.required_rubygems_version = ">= 1.3.6"
     
