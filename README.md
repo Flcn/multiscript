@@ -11,7 +11,7 @@ source_str = MultiScript.compress({
   :source_folder => sources, 
   :config_file   => 'config.yaml',
   :out_type      => 'string',
-  :minify        => falses
+  :minify        => false
 })
 ````
 
